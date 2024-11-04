@@ -1,4 +1,4 @@
-# Program Reverse Engineering Notes (Example)
+# Program Reverse Engineering Notes (Example).
 # Made by ChatGPT
 
 ## Program Name/Hash
